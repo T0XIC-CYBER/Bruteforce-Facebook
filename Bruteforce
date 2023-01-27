@@ -1,0 +1,3 @@
+import os
+os.chdir('.Main')
+os.system('python Brute')
