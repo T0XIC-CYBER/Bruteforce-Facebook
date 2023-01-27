@@ -1,6 +1,6 @@
 Clone This `Repository`👇
 ```
-https://github.com/T0XIC-CYBER/Bruteforce-Facebook
+git clone https://github.com/T0XIC-CYBER/Bruteforce-Facebook
 ```
 Copy `CD`
 ```
@@ -11,4 +11,4 @@ Run `Python`
 python Bruteforce
 ```
 
-#Thanks For Watching
+``Thanks For Watching😎``
